@@ -1,4 +1,4 @@
-# 📊 Análise Exploratória de Dados com Python: conceitos, prática e mercado de trabalho
+# 📊 Análise Exploratória de Dados com Python
 
 ![Imagem que mostra a frase dados sem analise são apenas números soltos.](https://i.imgur.com/z54BSH7.png)
 
