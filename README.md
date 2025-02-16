@@ -1,6 +1,6 @@
 # 📊 Análise Exploratória de Dados com Python
 
-![Imagem que mostra a frase dados sem analise são apenas números soltos.](https://i.imgur.com/tBd9dvK.gif)
+![Imagem que mostra a frase dados sem analise são apenas números soltos.](https://i.imgur.com/zzwZqPb.gif)
 
 ### 🗂️ Tópicos Abordados
 
