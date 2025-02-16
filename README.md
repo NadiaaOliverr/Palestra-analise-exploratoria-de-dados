@@ -12,4 +12,4 @@
 
 Acesse o código [neste link](). Já para o slide [clique aqui]().
 
-💙 *Obrigada por conferir este conteúdo! Espero que a palestra tenha sido útil. Se quiser trocar uma ideia ou tiver dúvidas, é só chamar!*  
+💙 *Obrigada por conferir este conteúdo!*  
