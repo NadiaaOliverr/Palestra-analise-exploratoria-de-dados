@@ -10,6 +10,6 @@
 - Exemplo prático
 - Dicas sobre mercado de trabalho
 
-Acesse o código [neste link](). Já para o slide [clique aqui]().
+Acesse o código [neste link](https://github.com/NadiaaOliverr/Palestra-analise-exploratoria-de-dados/blob/main/explorando_dados.ipynb). Já para o slide [clique aqui](https://drive.google.com/file/d/1AsWMQ_iKys2s59u5c01tBkYBtLmx_A88/view?usp=sharing).
 
 💙 *Obrigada por conferir este conteúdo!*  
